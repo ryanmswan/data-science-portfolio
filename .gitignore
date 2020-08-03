@@ -1,0 +1,16 @@
+.DS_Store
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+.ipynb
+*.csv
+fma_metadata/*
+*/maps/*
+*.db
+*.pyc
+*/__pycache__/*
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.json
+*/data*
