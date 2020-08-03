@@ -1,0 +1,17 @@
+# Data Science Mini-Projects
+
+The projects in this section are small demonstrations of statistical and machine learning tools used for investigating trends in data. They are organized as follows:
+
+1. [01-json-data:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/01-json-data/sliderule_dsi_json_exercise.ipynb) Manipulating and organizing data with JSON, with an emphasis on string-related programming
+2. [02-sql-data:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/02-sql-data/1520094343_sql_project.sql) Using SQL to query and perform operations on data stored in relational databases
+3. [03-api-data:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/03-api-data/api_data_wrangling_mini_project.ipynb) Using calls to an API to request data related to financial transactions
+4. [04-frequentist-inference:](https://github.com/ryanmswan/data-science-portfolio/tree/master/mini-projects/04-frequentist-inference) demonstrating the use of core statistical concepts like Z-scores and T-scores in insurance data
+5. [05-bootstrap-inference:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/05-bootstrap-inference/inferential_statistics_2-Q.ipynb) demonstrating the use of bootstrapping to arrive at statistical conclusions 
+6. [06-bayesian-statistics:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/06-bayesian-statistics/inferential_statistics_3-Q.ipynb) using MCMC sampling and Bayesian model definitions to solve statistical problems in medical insurance data
+7. [07-linear-regression](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/07-linear-regression/Mini_Project_Linear_Regression.ipynb): using classical linear regression to perform analysis in the Boston Housing dataset
+8. [08-logistic-regression:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/08-logistic-regression/Mini_Project_Logistic_Regression.ipynb) using logistic regression to classify individuals using height and weight data
+9. [09-naive-bayes:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/09-naive-bayes/Mini_Project_Naive_Bayes.ipynb) predicting movie ratings based on Rotten Tomatoes reviews using a Naive Bayes classifier
+10. [10-clustering-segmentation:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/10-clustering-segmentation/Mini_Project_Clustering.ipynb) performing customer segmentation using transaction data and Kmeans/PCA/DBSCAN
+11. [SPARK-Data-Analysis:](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4061570138105162/1209526433649492/950172215555401/latest.html) using SPARK, Pandas, and SQL to perform distributed computing on data
+12. [12-ultimate-challenge:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/12-ultimate-challenge/ultimate_challenge_takehome.ipynb) A mock takehome data science project investigating trends in a ride-sharing app
+13. [13-relax-challenge:](https://github.com/ryanmswan/data-science-portfolio/blob/master/mini-projects/13-relax-challenge/relax_takehome.ipynb) A mock takehome data science project using login data and time series analysis in pandas
