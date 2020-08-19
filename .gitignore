@@ -15,5 +15,4 @@ fma_metadata/*
 *.json
 */data*
 */.ipynb_checkpoints/*
-*.pdf
 *.gif
