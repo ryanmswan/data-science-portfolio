@@ -4,7 +4,7 @@ This project attempts to use data available from the <a href="https://github.com
 
 # Project Files
 
-The main notebook detailing the analysis process is available in this repository <a href="https://github.com/ryanmswan/springboard_capstone_1/blob/master/notebooks/1.3-fma_analysis_updated.ipynb">HERE.</a>
+The main notebook detailing the analysis process is available in this repository <a href="https://github.com/ryanmswan/springboard_capstone_2/blob/master/notebooks/01.01.rms-Data_Cleaning-lyric_data.ipynb">HERE.</a>
 
 --------
 
