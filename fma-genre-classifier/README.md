@@ -1,4 +1,4 @@
-# genreClassifier
+# fma-genre-classifier
 
 This project attempts to use data available from the <a href="https://github.com/mdeff/fma">Free Music Archive</a> to build a classifier attempting to identify the genre of a specific song. The FMA includes over 100,000 audio files with associated metadata. In this project, we investigate the ability to use the metadata portion of the FMA to assign a genre tag to audio evaluate the resulting classification.
 
